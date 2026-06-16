@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wab\\Desktop\\Git \u0434\u043B\u044F \u0441\u043E\u0431\u0435\u0441\u043E\u0432\\Sorts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A452D9DC-95F3-45E5-B0E4-5989DBCD7FA4}|Sorts.vcxproj|C:\\Users\\Wab\\Desktop\\Git \u0434\u043B\u044F \u0441\u043E\u0431\u0435\u0441\u043E\u0432\\Sorts\\Sorts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A452D9DC-95F3-45E5-B0E4-5989DBCD7FA4}|Sorts.vcxproj|solutionrelative:Sorts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sorts.cpp",
+              "DocumentMoniker": "C:\\Users\\Wab\\Desktop\\Git \u0434\u043B\u044F \u0441\u043E\u0431\u0435\u0441\u043E\u0432\\Sorts\\Sorts.cpp",
+              "RelativeDocumentMoniker": "Sorts.cpp",
+              "ToolTip": "C:\\Users\\Wab\\Desktop\\Git \u0434\u043B\u044F \u0441\u043E\u0431\u0435\u0441\u043E\u0432\\Sorts\\Sorts.cpp",
+              "RelativeToolTip": "Sorts.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-16T15:13:58.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
